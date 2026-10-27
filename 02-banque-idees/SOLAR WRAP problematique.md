@@ -1,0 +1,1 @@
+SOLAR WRAP aide les utilitaires (société de transport de véhicules hybribes et électrique) à résoudre leur problème de coût de carburant grâce au film photovoltaÏque qui leur permettra de faire des économies contrairement aux bornes alimentées par des panneaux solaires

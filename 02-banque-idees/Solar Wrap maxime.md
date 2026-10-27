@@ -1,0 +1,1 @@
+Solar Wrap aide les distributeurs de produits frais, laitiers et pharmaceutiques en Afrique à garder leur chaîne du froid fiable hors des grandes villes, grâce à l’énergie du soleil captée directement sur le camion, contrairement aux solutions qui dépendent d’un réseau électrique instable ou d’un carburant cher et difficile à trouver.
