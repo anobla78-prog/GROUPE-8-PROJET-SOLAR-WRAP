@@ -1,6 +1,6 @@
 # 📈 Plan commercial SOLAR WRAP — Pôle Ventes
 
-**Responsable : NAB** · **Version :** v1 — 27/10/2026 · **Statut :** proposition, à valider par FAOUZI (Direction)
+**Responsable : NAB** · **Version :** v1.1 — 27/10/2026 (v1 + vocabulaire du pipeline et règles de pilotage) · **Statut :** proposition, à valider par FAOUZI (Direction)
 
 > Livrable attendu (cf. [tache et livrable de chacun](../tache%20et%20livrable%20de%20chacun.md)) : **plan commercial et premiers prospects**.
 > Sources internes : [LA VISION DU CEO](../04-strategie/LA%20VISION%20DU%20CEO.MD), [intro pitch CEO](../04-strategie/intro%20pitch%20CEO.md), `2 FINANCE/SOLAR_WRAP_BP_V2.xlsx`, `2 FINANCE/SLIDES DE PRESENTATION VISION.pptx`, [banque d'idées](../02-banque-idees/README.md).
@@ -102,10 +102,35 @@ Les exemples ci-dessous sont des pistes **à vérifier sur le terrain** et non d
 - Nombre de prospects qualifiés et taux de transformation à chaque étape
 - Nombre de LOI pilote signées
 - Nombre de véhicules sous contrat et délai moyen de signature
+- **Chiffre d'affaires facturé** et **chiffre d'affaires encaissé**, suivis séparément chaque mois
 - Litres de gazole économisés et ruptures de froid évitées (mesurés)
 - Taux d'abonnement SOLAR CONTROL (objectif 75 % en 2028)
+- **Mois de trésorerie restants** comparés à la durée du cycle de vente
 
-## 11. Besoins auprès des autres pôles
+### Vocabulaire du pipeline (à ne jamais mélanger)
+
+| Étape | Ce que ça prouve | Ce que ça ne prouve pas |
+|---|---|---|
+| Contact | Une personne a été identifiée | Un besoin |
+| Prospect qualifié | Besoin, budget et décideur confirmés | Une intention d'achat |
+| LOI pilote | Une intention écrite, sous conditions | Un engagement d'achat |
+| Contrat signé | Un engagement ferme | Un revenu (conditions suspensives possibles) |
+| CA facturé | Une facture émise | Un encaissement |
+| CA encaissé | De la trésorerie | Un client récurrent |
+
+## 11. Règles de pilotage commercial
+
+Tirées de l'étude d'une start-up dont les ventes n'ont pas décollé, cas étudié dans le module :
+
+1. **Le pilote est payant.** Un pilote gratuit ne prouve pas la volonté de payer ; prévoir au minimum une participation au coût, déduite en cas de déploiement.
+2. **Un partenaire qui « teste » ou qui montre un « fort intérêt » n'est pas un client.** Chaque partenaire est suivi avec un contrat et un montant, ou retiré du pipeline.
+3. **Se concentrer avant de s'étendre.** Un seul pays et un ou deux segments tant que trois clients payants n'ont pas été obtenus ; pas d'ouverture de nouveau pays sur la base de contacts non qualifiés.
+4. **Le cycle de vente est comparé chaque mois à la trésorerie.** Si le délai moyen de signature dépasse les mois de trésorerie restants, l'alerte est remontée à la Direction et à la Finance.
+5. **Rémunération variable sur le CA facturé**, pas sur les contacts ou les rendez-vous ; les fonctions support sont intéressées au CA de l'équipe.
+6. **Le Marketing fournit les outils de vente avant la prospection** : argumentaire, simulateur de ROI, fiche produit, études de cas.
+7. **Les prévisions de ventes sont datées et versionnées** ; un objectif revu est noté comme tel, l'ancien n'est pas effacé.
+
+## 12. Besoins auprès des autres pôles
 
 | Pôle | Besoin |
 |---|---|
@@ -115,7 +140,7 @@ Les exemples ci-dessous sont des pistes **à vérifier sur le terrain** et non d
 | Produit / Opérations — ILYES | Fiche produit, temps de pose, capacité d'installation locale |
 | Juridique / RH — MAXIME | Homologation en Côte d'Ivoire, modèle de LOI pilote, garantie |
 
-## 12. Livrables pour la restitution (28/10)
+## 13. Livrables pour la restitution (28/10)
 
 1. Ce plan commercial.
 2. Une slide **« Go-to-market Côte d'Ivoire »** : segments, entonnoir 40 → 3, offre pilote, argument mensualité < économies.
