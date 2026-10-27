@@ -1,0 +1,24 @@
+﻿ID;Volet;Action;Responsable proposé;Échéance;Statut;Preuve attendue;Source
+A01;Cadrage;Confirmer service de transport ou vente/fabrication véhicule;Faouzi / Ilyes;J1;À confirmer;Fiche modèle et périmètre;P01
+A02;Cadrage;Lister produits exacts, emballages et conditions de conservation;Nab / Ilyes;J1;À faire;Catalogue pilote documenté;S07–S09
+A03;Cadrage;Fixer trajets, capacité, horaires et clients professionnels;Nab / Ilyes;J1;À faire;Fiche tournée et contraintes;Proposition
+A04;Société;Comparer SARL/SAS et contraintes pharmaceutiques éventuelles;Maxime / Faouzi;J2;À faire;Note choix et qualification AIRP;S01–S02 / S06
+A05;Société;Définir associés, apports, capital et pouvoirs de signature;Faouzi / Levon;Avant constitution;À faire;Projet statuts et décision humaine;S01–S02
+A06;Société;Effectuer formalités de constitution retenues;Dirigeant habilité;Avant activité;À faire;Pièces CEPICI / RCCM / fiscales;S02
+A07;Transport;Confirmer inscription transporteur et titres entreprise/véhicule;Maxime / Ilyes;Avant exploitation;À confirmer;Réponse officielle et titres requis;S15
+A08;Transport;Organiser DUT et documents de chaque mission;Exploitation;Avant mission;À faire;DUT et documents selon régime / ordre;S03–S04
+A09;Pharma;Obtenir qualification du modèle, autorisations et exigences AIRP;Maxime;Avant offre Pharma;À confirmer;Réponse écrite / autorisations;S05–S08 / S14
+A10;Alimentaire;Confirmer agrément DAOA et prescriptions produit/véhicule;Maxime / Ilyes;Avant offre concernée;À confirmer;MIRAH / agrément et conditions;S09 / S16
+A11;Alimentaire;Identifier règles pour les produits végétaux retenus;Maxime;Avant gamme végétale;À confirmer;Autorité compétente / textes;Selon produits
+A12;Technique;Qualifier véhicule, trajet, énergie et instrumentation;Ilyes;Avant pilote;À faire;Essais et rapport acceptation;S07–S08 / Proposition
+A13;Technique;Faire vérifier transformations et assurance du véhicule;Ilyes / Maxime;Avant exploitation;À faire;Justificatifs techniques et assureur;S15 / S10
+A14;Qualité;Valider nettoyage, séparation, enregistrement et archivage;Qualité / Ilyes;Avant pilote;À faire;Procédures et formulaires validés;S07–S09
+A15;Secours;Contracter maintenance et solution de repli qualifiée;Ilyes;Avant pilote;À faire;Contrat et test incident;Proposition
+A16;Assurances;Obtenir garanties explicites pharma/frais/rupture froid;Maxime / Levon;Avant acceptation;À faire;Police / plafonds / exclusions;S10 / Proposition
+A17;Contrats;Compléter contrat-cadre, accord qualité et ordre mission;Maxime / Nab;Avant mission;À faire;Accords signés par habilités;S04 / S07
+A18;RH;Fixer postes, régime de travail et budget complet;Maxime / Levon;Avant recrutement;À faire;Fiches postes / simulation locale;S11–S12
+A19;RH;Vérifier permis, contrat, santé et déclarations sociales;Exploitation / Maxime;Avant autonomie;À faire;Pièces individuelles privées;S11–S12
+A20;Formation;Former et évaluer, y compris simulation panne;Qualité / Exploitation;Avant autonomie;À faire;Feuilles / test / habilitation;S07 / S11
+A21;Données;Examiner formalités, information, accès et transferts;Maxime;Avant traitement;À confirmer;Registre / ARTCI si requis;S13
+A22;Propriété;Vérifier nom et droits sur créations/équipements;Maxime;Avant engagement marque;À faire;Recherche / licences ou cessions;S17
+A23;Pilotage;Réunir preuves et décider autorisation du pilote;Direction habilitée;Après prérequis;À faire;Compte rendu de revue daté;Proposition
