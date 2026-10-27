@@ -1,0 +1,1 @@
+Solarwrap aide les transporteurs à réduire leurs dépenses de carburant grâce à des matériaux innovants intégrés à la carrosserie des véhicules, qui valorisent une énergie aujourd’hui inexploitée.
