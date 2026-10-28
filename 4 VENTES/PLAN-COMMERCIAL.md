@@ -1,6 +1,6 @@
 # 📈 Plan commercial SOLAR WRAP — Pôle Ventes
 
-**Responsable : NAB** · **Version :** v1.2 — 28/10/2026 · **Statut :** proposition, à valider par FAOUZI (Direction)
+**Responsable : NAB** · **Version :** v1.3 — 28/10/2026 (v1.2 + feuille de route géographique, section 17) · **Statut :** proposition, à valider par FAOUZI (Direction)
 
 > Livrable attendu (cf. [tache et livrable de chacun](../tache%20et%20livrable%20de%20chacun.md)) : **plan commercial et premiers prospects**.
 > Sources internes : [LA VISION DU CEO](../04-strategie/LA%20VISION%20DU%20CEO.MD), [étude de marché Marketing](../3%20MARKETING/SOLAR_WRAP_Etude_de_marche_synthetique_et_positionnement.md), [fiche Produit](../5%20PRODUIT/INSTALLATION%20PHOTOVOLTA%C3%8FQUE%20SUR%20CONTENEUR%20LOGISTIQUE%20FRIGORIFIQUE.md), [note Juridique / RH](../7%20JURIDIQUE%20RH/README.md), [business plan V2](../2%20FINANCE/SOLAR_WRAP_BP_V2.md), `02-banque-idees/CONTRADICTIONS ET INCOHERENCES.docx`.
@@ -200,3 +200,21 @@ Visite du conteneur et du groupe frigorifique, relevé de la consommation, du co
 1. Ce plan commercial (v1.2).
 2. Une slide **« Go-to-market Côte d'Ivoire »** : segments de priorité 1, audit comme porte d'entrée, entonnoir 10-15 → 3-5 → 1-2 pilotes → 3 comptes en 2027, conditions du pilote.
 3. Les points encore ouverts de la section 1, présentés à FAOUZI.
+
+## 17. Feuille de route géographique (après Abidjan)
+
+**Critères de choix :** flux de produits frais ou congelés · temps d'arrêt des conteneurs (chargement, attente au port, marchés) · projets publics de froid ou de marchés de gros · ensoleillement · liaison logistique avec Abidjan.
+
+| Ordre | Ville | Pourquoi | Éléments relevés | Fiabilité |
+|---|---|---|---|---|
+| 1 | **Abidjan** | Pilote | Port, zones industrielles, plus forte concentration de flottes frigorifiques | — |
+| 2 | **Bouaké** | Carrefour de l'axe Abidjan → nord ; extension naturelle des clients distributeurs | Marché de gros de 28 ha et 431 magasins, projet de modernisation ; projet de chaîne du froid présenté par le CEPICI (pertes post-récolte ≈ 40 %/an selon le ministère de l'Agriculture) ; installateurs solaires présents localement | 🟡 projets, calendrier non confirmé |
+| 3 | **Korhogo / Ferkessédougou** | Export de mangues en conteneurs frigorifiques vers le port d'Abidjan ; meilleur ensoleillement du pays ; corridor Burkina Faso – Mali | Stations de conditionnement nombreuses à Korhogo (18 en 2018) ; projet d'entrepôts froids au catalogue du CEPICI ; port sec de Ferkessédougou prévu vers 2028 (PND 2026-2030) ; ensoleillement maximal au nord-ouest (≈ 5,6 kWh/m²/jour) | 🟡 données 2018-2022 ; activité **saisonnière** (campagne mangue) |
+| 4 | **San-Pédro** | 2e port du pays ; produits de la mer congelés | Peu de données publiques sur le trafic de conteneurs frigorifiques | 🔴 à qualifier sur place |
+| À surveiller | **Daloa**, **Abengourou** | Marchés de gros annoncés pour le vivrier (mai 2026, PND 2026-2030) | Annonce gouvernementale ; calendrier inconnu | 🟡 |
+
+**Argument propre aux villes de l'intérieur :** les conteneurs y restent longtemps à l'arrêt (chargement en station, file d'attente au port, journées au marché de gros) — c'est là que la continuité d'alimentation **moteur à l'arrêt** a le plus de valeur. *Hypothèse à vérifier pendant les entretiens.*
+
+**Conditions pour passer à la ville suivante :** au moins un pilote réussi et documenté à Abidjan ; un installateur partenaire capable d'intervenir dans la ville visée (ou formé sur place) ; pour Korhogo, une visite calée sur la campagne mangue.
+
+**Sources :** [Ecofin — trois marchés de gros (mai 2026)](https://www.agenceecofin.com/actualites/0605-138182-cote-d-ivoire-trois-marches-de-gros-annonces-pour-moderniser-la-filiere-vivriere) · [Marché de gros de Bouaké](https://www.pppossible.com/projet-marchedugros.php) · [PND 2026-2030 et le Nord](https://www.afrik.com/pnd-2026-2030-la-cote-d-ivoire-veut-faire-du-nord-un-corridor-agro-industriel-et-logistique) · [Filières fruitières en Côte d'Ivoire (2022)](https://www.hortifresh.org/wp-content/uploads/AnalyseFruitSectors_2022_online.pdf) · [La mangue en Côte d'Ivoire (Fruitrop)](https://www.fruitrop.com/content/download/42193/685289/version/6/file/F255+fiche+mangue+cote+ivoire+FRA.pdf) · [Catalogue de projets du CEPICI](https://cepici.ci/forum/public/backend/assets/upload/documents/1732611402_ee63aa13c1d73bc83f6a.pdf) · [Ensoleillement — Scientific African (2026)](https://doaj.org/article/12a8ff372dc7406d90b8bba12148ee5a)
