@@ -1,6 +1,6 @@
 # 📈 Plan commercial SOLAR WRAP — Pôle Ventes
 
-**Responsable : NAB** · **Version :** v1.4 — 28/10/2026 (v1.3 + cohérence avec le [Business Model Canvas](../08-livrables/BUSINESS-MODEL-CANVAS/README.md) : alerte prix, points 5 à 7 de la section 1, canaux) · **Statut :** proposition, à valider par FAOUZI (Direction)
+**Responsable : NAB** · **Version :** v1.5 — 28/10/2026 (v1.4 + jalons du go-to-market, section 18) · **Statut :** proposition, à valider par FAOUZI (Direction)
 
 > Livrable attendu (cf. [tache et livrable de chacun](../tache%20et%20livrable%20de%20chacun.md)) : **plan commercial et premiers prospects**.
 > Sources internes : [LA VISION DU CEO](../04-strategie/LA%20VISION%20DU%20CEO.MD), [étude de marché Marketing](../3%20MARKETING/SOLAR_WRAP_Etude_de_marche_synthetique_et_positionnement.md), [fiche Produit](../5%20PRODUIT/INSTALLATION%20PHOTOVOLTA%C3%8FQUE%20SUR%20CONTENEUR%20LOGISTIQUE%20FRIGORIFIQUE.md), [note Juridique / RH](../7%20JURIDIQUE%20RH/README.md), [business plan V2](../2%20FINANCE/SOLAR_WRAP_BP_V2.md), `02-banque-idees/CONTRADICTIONS ET INCOHERENCES.docx`.
@@ -235,3 +235,24 @@ Visite du conteneur et du groupe frigorifique, relevé de la consommation, du co
 **Conditions pour passer à la ville suivante :** au moins un pilote réussi et documenté à Abidjan ; un installateur partenaire capable d'intervenir dans la ville visée (ou formé sur place) ; pour Korhogo, une visite calée sur la campagne mangue.
 
 **Sources :** [Ecofin — trois marchés de gros (mai 2026)](https://www.agenceecofin.com/actualites/0605-138182-cote-d-ivoire-trois-marches-de-gros-annonces-pour-moderniser-la-filiere-vivriere) · [Marché de gros de Bouaké](https://www.pppossible.com/projet-marchedugros.php) · [PND 2026-2030 et le Nord](https://www.afrik.com/pnd-2026-2030-la-cote-d-ivoire-veut-faire-du-nord-un-corridor-agro-industriel-et-logistique) · [Filières fruitières en Côte d'Ivoire (2022)](https://www.hortifresh.org/wp-content/uploads/AnalyseFruitSectors_2022_online.pdf) · [La mangue en Côte d'Ivoire (Fruitrop)](https://www.fruitrop.com/content/download/42193/685289/version/6/file/F255+fiche+mangue+cote+ivoire+FRA.pdf) · [Catalogue de projets du CEPICI](https://cepici.ci/forum/public/backend/assets/upload/documents/1732611402_ee63aa13c1d73bc83f6a.pdf) · [Ensoleillement — Scientific African (2026)](https://doaj.org/article/12a8ff372dc7406d90b8bba12148ee5a)
+
+## 18. Jalons du go-to-market (référence : roadmap de déploiement)
+
+La [roadmap de déploiement](ROADMAP-SOLAR-WRAP.png) est la **référence des jalons du go-to-market**. Chaque phase se termine par une décision **go / no-go** : on ne passe à la phase suivante que si le critère est atteint.
+
+![Go-to-market SOLAR WRAP — jalons 2026-2031](ROADMAP-SOLAR-WRAP.png)
+
+| Jalon | Échéance cible | Critère de réussite (go / no-go) | Responsable principal | Indicateurs Ventes |
+|---|---|---|---|---|
+| **J0 — Besoin validé** | Fin janv. 2027 | 3 flottes qualifiées (§ 4) avec une perte chiffrée ; partenaire technique engagé ; conception validée | NAB · ILYES | Entretiens réalisés (10-15), audits (3-5) |
+| **J1 — Système prouvé** | Fin mai 2027 | Autonomie ≥ 8 h mesurée ; sécurité OK ; feu vert réglementaire et assureur | ILYES · MAXIME | Clients prêts à piloter |
+| **J2 — Valeur prouvée** | Fin sept. 2027 | Critères du pilote atteints ; le client veut étendre ; étude de cas chiffrée | NAB | Conventions de pilote signées (1-2) |
+| **J3 — Premiers revenus** | Fin déc. 2027 | 3 clients payants · 15 conteneurs · CA **encaissé** | NAB · LEVON | CA facturé / encaissé, taux d'abonnement |
+| **J4 — Couverture nationale** | 2028 | Clients actifs à Bouaké et Korhogo ; objectif BP 10 clients · 120 unités (à revoir) | NAB | Clients par ville, délai de signature |
+| **J5 — Rentabilité et UEMOA** | 2029-2030 | Coût unitaire en baisse ; premier client hors Côte d'Ivoire ; EBITDA positif visé en 2030 | FAOUZI · LEVON | Marge par conteneur, clients UEMOA |
+| **J6 — Passage à l'échelle** | 2031 + | Accord avec un constructeur ou carrossier ; revenus récurrents SOLAR CONTROL | FAOUZI | Part du CA récurrent |
+
+**Règles :**
+- Un jalon manqué déclenche une revue avec la Direction et la Finance : **corriger, décaler ou arrêter** — jamais passer outre.
+- Les échéances sont des **cibles** ; elles sont revues à chaque jalon et les versions précédentes sont conservées (§ 14, règle 8).
+- Les prix et volumes restent soumis aux arbitrages de la section 1 (notamment le prix du kit).

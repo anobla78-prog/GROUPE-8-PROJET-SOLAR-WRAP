@@ -4,11 +4,11 @@
 
 **Périmètre :** Clients, prospects, pipeline, partenaires.
 
-📄 Document principal : [PLAN-COMMERCIAL](PLAN-COMMERCIAL.md) (v1.3 — 28/10/2026)
+📄 Document principal : [PLAN-COMMERCIAL](PLAN-COMMERCIAL.md) (v1.5 — 28/10/2026)
 
-🗺️ Proposition de roadmap de déploiement 2026 → 2031 (dates et montants à valider par la Direction et la Finance) :
+🗺️ **Jalons du go-to-market 2026 → 2031** — la roadmap de déploiement sert de référence aux jalons go / no-go (détail : section 18 du plan ; dates et montants à valider par la Direction et la Finance) :
 
-![Roadmap de déploiement SOLAR WRAP 2026-2031](ROADMAP-SOLAR-WRAP.png)
+![Go-to-market SOLAR WRAP — jalons 2026-2031](ROADMAP-SOLAR-WRAP.png)
 
 ## À renseigner
 - Objectif prioritaire : lancer 1 à 2 pilotes payants sur conteneurs frigorifiques en Côte d'Ivoire, puis signer 3 comptes (15 conteneurs équipés) en 2027.
