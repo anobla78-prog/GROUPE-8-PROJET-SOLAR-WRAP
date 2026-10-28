@@ -10,6 +10,8 @@
 
 ![Go-to-market SOLAR WRAP — jalons 2026-2031](ROADMAP-SOLAR-WRAP.png)
 
+📥 Versions haute définition : [PNG 4800 × 3000 px](ROADMAP-GO-TO-MARKET-HD.png) (slides, grand écran) · [PDF vectoriel](ROADMAP-GO-TO-MARKET.pdf) (impression, jusqu'au format A1)
+
 ## À renseigner
 - Objectif prioritaire : lancer 1 à 2 pilotes payants sur conteneurs frigorifiques en Côte d'Ivoire, puis signer 3 comptes (15 conteneurs équipés) en 2027.
 - Hypothèses à vérifier : nombre de conteneurs dont le froid dépend du moteur ou subit de longs arrêts sans prise ; volonté de payer des transporteurs frigorifiques et distributeurs agroalimentaires ; acceptation d'un audit technique payant ; autonomie réelle à l'arrêt.
