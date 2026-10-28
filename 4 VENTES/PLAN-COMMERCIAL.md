@@ -1,6 +1,6 @@
 # 📈 Plan commercial SOLAR WRAP — Pôle Ventes
 
-**Responsable : NAB** · **Version :** v1.3 — 28/10/2026 (v1.2 + feuille de route géographique, section 17) · **Statut :** proposition, à valider par FAOUZI (Direction)
+**Responsable : NAB** · **Version :** v1.4 — 28/10/2026 (v1.3 + cohérence avec le [Business Model Canvas](../08-livrables/BUSINESS-MODEL-CANVAS/README.md) : alerte prix, points 5 à 7 de la section 1, canaux) · **Statut :** proposition, à valider par FAOUZI (Direction)
 
 > Livrable attendu (cf. [tache et livrable de chacun](../tache%20et%20livrable%20de%20chacun.md)) : **plan commercial et premiers prospects**.
 > Sources internes : [LA VISION DU CEO](../04-strategie/LA%20VISION%20DU%20CEO.MD), [étude de marché Marketing](../3%20MARKETING/SOLAR_WRAP_Etude_de_marche_synthetique_et_positionnement.md), [fiche Produit](../5%20PRODUIT/INSTALLATION%20PHOTOVOLTA%C3%8FQUE%20SUR%20CONTENEUR%20LOGISTIQUE%20FRIGORIFIQUE.md), [note Juridique / RH](../7%20JURIDIQUE%20RH/README.md), [business plan V2](../2%20FINANCE/SOLAR_WRAP_BP_V2.md), `02-banque-idees/CONTRADICTIONS ET INCOHERENCES.docx`.
@@ -18,6 +18,9 @@
 | 2 | Type d'équipement | **Réglé** : conteneurs frigorifiques de 10, 20 et 30 pieds montés sur camion ou remorque | — |
 | 3 | Prix de vente | Ouvert : la fiche Produit donne des **coûts estimés**, pas des prix ; TVA indiquée à 20 % alors que le taux de droit commun ivoirien est de 18 % | Prix de vente en FCFA, marge comprise, TVA et frais d'importation vérifiés (LEVON) |
 | 4 | Porteur du pilote client | Ouvert : le business plan attribue la flotte pilote à LEVON ; la note Juridique demande à NAB le client visé et les conditions de l'essai | Pilote porté par Ventes (NAB), avec Produit (ILYES) pour la technique |
+| 5 | **Prix du kit — 🔴 critique** | Le BMC retient **7 500 € par véhicule**, alors que la fiche Produit chiffre un **coût** de 7 250 / 8 050 / 8 900 € HT (10 / 20 / 30 pieds) → **vente à perte en 20 et 30 pieds** (voir § 6.2) | Un prix **par format**, en **HT**, couvrant coût + importation + marge ; à fixer par LEVON avec ILYES |
+| 6 | Maintenance et SOLAR CONTROL | Le BMC prévoit une maintenance à **30 €/mois (360 €/an)** ; le business plan prévoit **360 €/an pour SOLAR CONTROL** — même montant pour deux services | Décider : maintenance et suivi **inclus** dans un même abonnement, ou **facturés séparément** |
+| 7 | Place de la pharma | Le BMC en fait l'un des **deux marchés principaux** ; l'étude Marketing la place en **priorité 3, après qualification** | Garder la position Marketing : pharma = cible ultérieure |
 
 ## 2. Positionnement commercial
 
@@ -74,6 +77,16 @@ Visite du conteneur et du groupe frigorifique, relevé de la consommation, du co
 
 \* Calcul : coût ÷ (1 − 38 %), soit la marge brute hardware 2028 du business plan ; 1 € = 655,957 FCFA ; TVA ivoirienne de droit commun, régime exact et frais d'importation à vérifier. **Ce ne sont pas des prix validés.**
 
+> 🔴 **Alerte prix — écart avec le Business Model Canvas (v1, 28/10/2026).** Le BMC retient un prix unique de **7 500 € par véhicule**. Comparé aux coûts de la fiche Produit :
+>
+> | Format | Coût HT | Marge si 7 500 € **HT** | Marge si 7 500 € **TTC** (TVA 18 %, soit ≈ 6 356 € HT) |
+> |---|---|---|---|
+> | 10 pieds | 7 250 € | +250 € (≈ 3 %) | −894 € |
+> | 20 pieds | 8 050 € | −550 € | −1 694 € |
+> | 30 pieds | 8 900 € | −1 400 € | −2 544 € |
+>
+> Ces marges n'incluent ni transport, ni dédouanement, ni garantie, ni la batterie de l'offre « 12 h ». **Les deux grilles de prix ne peuvent pas coexister** : décision à prendre par le groupe (voir § 1, point 5).
+
 **Deux niveaux d'autonomie** (contradiction n° 1 à corriger par ILYES) :
 - **Offre « 8 h »** : batterie de 20 kWh — c'est la configuration chiffrée ci-dessus (≈ 8,5 h calculées à 1,5 kW).
 - **Offre « 12 h »** : batterie d'environ 30 kWh — **à chiffrer** par ILYES.
@@ -103,6 +116,10 @@ Visite du conteneur et du groupe frigorifique, relevé de la consommation, du co
 3. **Installateur partenaire qualifié** pour la pose et l'entretien (note Juridique, § 4).
 4. **Banques, sociétés de leasing, loueurs** : financement de l'équipement.
 5. **Fédérations de transporteurs, chambres de commerce, filières agroalimentaires** : crédibilité et accès aux réseaux.
+6. **Réseau de l'équipe à Abidjan** (dont la fondatrice sur place, selon le BMC) : premières présentations et recommandations.
+7. **LinkedIn** : identification des directeurs logistique, technique, qualité et achats ; messages personnalisés.
+8. **Réseaux d'affaires à solliciter** (repris du BMC, aucun partenariat obtenu) : CCIFCI, Business France, CGECI ; orientation par le CEPICI.
+9. **Salons ciblés** : choisis selon la présence des décideurs du froid ; le SIREXE (mines, pétrole, énergie) est une piste côté fournisseurs, pertinence commerciale à apprécier.
 
 ## 9. Entonnoir de vente
 
