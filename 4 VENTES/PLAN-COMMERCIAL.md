@@ -1,110 +1,165 @@
 # 📈 Plan commercial SOLAR WRAP — Pôle Ventes
 
-**Responsable : NAB** · **Version :** v1.1 — 27/10/2026 (v1 + vocabulaire du pipeline et règles de pilotage) · **Statut :** proposition, à valider par FAOUZI (Direction)
+**Responsable : NAB** · **Version :** v1.2 — 28/10/2026 · **Statut :** proposition, à valider par FAOUZI (Direction)
 
 > Livrable attendu (cf. [tache et livrable de chacun](../tache%20et%20livrable%20de%20chacun.md)) : **plan commercial et premiers prospects**.
-> Sources internes : [LA VISION DU CEO](../04-strategie/LA%20VISION%20DU%20CEO.MD), [intro pitch CEO](../04-strategie/intro%20pitch%20CEO.md), `2 FINANCE/SOLAR_WRAP_BP_V2.xlsx`, `2 FINANCE/SLIDES DE PRESENTATION VISION.pptx`, [banque d'idées](../02-banque-idees/README.md).
-> Les chiffres repris du business plan sont des **hypothèses management** à valider ; rien ici n'est encore prouvé sur le terrain.
+> Sources internes : [LA VISION DU CEO](../04-strategie/LA%20VISION%20DU%20CEO.MD), [étude de marché Marketing](../3%20MARKETING/SOLAR_WRAP_Etude_de_marche_synthetique_et_positionnement.md), [fiche Produit](../5%20PRODUIT/INSTALLATION%20PHOTOVOLTA%C3%8FQUE%20SUR%20CONTENEUR%20LOGISTIQUE%20FRIGORIFIQUE.md), [note Juridique / RH](../7%20JURIDIQUE%20RH/README.md), [business plan V2](../2%20FINANCE/SOLAR_WRAP_BP_V2.md), `02-banque-idees/CONTRADICTIONS ET INCOHERENCES.docx`.
+> Les prix, autonomies et volumes ci-dessous sont des **hypothèses** ; rien n'est encore prouvé sur le terrain.
+
+**Changements par rapport à la v1.1 :** alignement sur le positionnement « continuité d'alimentation » retenu par l'équipe ; gamme conteneurs 10 / 20 / 30 pieds de la fiche Produit ; segments repris de l'étude Marketing ; retrait de l'argument « mensualité < économies de gazole » ; ajout des promesses interdites avant preuve, des critères de qualification technique et des conditions du pilote demandées par le pôle Juridique / RH.
 
 ---
 
 ## 1. Points à arbitrer avec la Direction
 
-| # | Sujet | Vision CEO | Business plan V2 | Proposition Ventes |
-|---|---|---|---|---|
-| 1 | Pays de démarrage | Côte d'Ivoire | Europe → Australie / Chili → Afrique du Sud → Brésil (Côte d'Ivoire absente) | Côte d'Ivoire = pays pilote ; l'ajouter au business plan |
-| 2 | Type de véhicule | Flottes frigorifiques | ROI calculé sur le gazole économisé, mais marché total (TAM) compté sur les véhicules électriques | Cibler les camions frigorifiques diesel déjà en circulation (retrofit) |
-| 3 | Prix et ROI | — | En €, gazole à 1,50 €/L, références européennes | ROI et prix en FCFA avec le prix réel du gazole en Côte d'Ivoire (à fournir par LEVON) |
-| 4 | Pilotage du pilote client | — | « Sélectionner 1 flotte pilote » et « 20 entretiens flottes » attribués à LEVON | Porter ces actions côté Ventes (NAB), en binôme avec Marketing (EDWIGE) |
+| # | Sujet | État au 28/10 | Proposition Ventes |
+|---|---|---|---|
+| 1 | Pays de démarrage | Côte d'Ivoire retenue par le CEO, le Marketing et le Juridique ; le **business plan V2 reste construit sur Europe → Australie / Chili** | Faire adapter le business plan à la Côte d'Ivoire (LEVON) |
+| 2 | Type d'équipement | **Réglé** : conteneurs frigorifiques de 10, 20 et 30 pieds montés sur camion ou remorque | — |
+| 3 | Prix de vente | Ouvert : la fiche Produit donne des **coûts estimés**, pas des prix ; TVA indiquée à 20 % alors que le taux de droit commun ivoirien est de 18 % | Prix de vente en FCFA, marge comprise, TVA et frais d'importation vérifiés (LEVON) |
+| 4 | Porteur du pilote client | Ouvert : le business plan attribue la flotte pilote à LEVON ; la note Juridique demande à NAB le client visé et les conditions de l'essai | Pilote porté par Ventes (NAB), avec Produit (ILYES) pour la technique |
 
 ## 2. Positionnement commercial
 
-> **SOLAR WRAP aide les distributeurs ivoiriens de produits sensibles (pharmacie, produits laitiers, surgelés, poisson et viande) à sécuriser leur chaîne du froid et à réduire leur facture de gazole, grâce à un habillage solaire posé sur leurs camions frigorifiques existants.**
+> **SOLAR WRAP aide les transporteurs frigorifiques et les distributeurs agroalimentaires ivoiriens à garder leur froid quand le moteur est à l'arrêt, grâce à un système solaire et batterie installé, suivi et entretenu sur leurs conteneurs frigorifiques.**
 
-Message clé (North Star des slides) : *faire en sorte que le coût de ne pas acheter SOLAR WRAP — marchandise perdue, gazole, pannes — devienne supérieur au coût d'achat.*
+- **Promesse :** *« Le froid continue, même à l'arrêt. »* — slogan à n'utiliser qu'après validation par les essais (étude Marketing, § 5.2).
+- **Ce que l'on vend :** une **prestation de continuité énergétique** (audit, installation, mise en service, maintenance, suivi), pas des panneaux solaires.
+- **Arguments secondaires, à mesurer et jamais à promettre :** moins de dépendance au carburant et aux groupes électrogènes, réduction des émissions.
 
-## 3. Segments prioritaires (Côte d'Ivoire)
+## 3. Segments prioritaires (repris de l'étude Marketing)
 
 | Priorité | Segment | Douleur | Décideurs |
 |---|---|---|---|
-| 1 | Distribution pharmaceutique (grossistes, centrale d'achat publique) | Rupture de froid = destruction de vaccins et de médicaments ; traçabilité de la température exigée | Directeur logistique, responsable qualité, DAF |
-| 2 | Produits laitiers, glaces, surgelés | Pertes de marchandise, longues tournées vers l'intérieur du pays | Directeur supply chain, responsable flotte |
-| 3 | Poisson et viande (import, mareyage, distribution) | Produits très périssables, groupe froid en marche en continu | Gérant, responsable flotte |
-| 4 | Grande distribution et boissons | Grandes flottes, volumes importants, objectifs RSE | Directeur logistique, direction RSE |
-| 5 | Transporteurs frigorifiques sous-traitants | Ils paient le gazole et vendent du froid fiable | Dirigeant (souvent une PME) |
+| **1** | Transporteurs frigorifiques B2B | Coupures d'alimentation pendant les attentes, livraisons et manutentions | Dirigeant, directeur d'exploitation |
+| **1** | Distributeurs et industriels agroalimentaires (frais, surgelés, produits laitiers) | Pertes de marchandise, livraisons refusées, litiges | Directeur logistique, responsable qualité |
+| **2** | Produits de la mer et viandes | Produits très sensibles à la température | Gérant, responsable flotte |
+| **3** | Logistique pharmaceutique — **après qualification** | Plages de température validées, traçabilité exigée | Responsable qualité, pharmacien responsable |
 
-**Client idéal pour le pilote :** au moins 10 camions frigorifiques, tournées de plus de 200 km par jour hors d'Abidjan, produits à forte valeur au kilo, direction sensible au coût total de possession.
+**Persona de lancement :** le **responsable d'exploitation d'une flotte frigorifique**. Avant d'acheter, il demande une preuve technique, l'autonomie réelle, le délai d'installation, la maintenance, le prix et le retour sur investissement.
 
-## 4. Premiers prospects (types d'acteurs à qualifier)
+**Qui intervient dans la décision :** dirigeant (rentabilité), directeur d'exploitation (fiabilité des livraisons), responsable technique (compatibilité, entretien), responsable qualité (températures, traçabilité), chauffeur (simplicité d'usage).
 
-Les exemples ci-dessous sont des pistes **à vérifier sur le terrain** et non des contacts établis :
-- **Pharmacie :** grossistes répartiteurs présents en Côte d'Ivoire (ex. Laborex, Ubipharm / Copharmed), Nouvelle PSP Côte d'Ivoire (centrale d'achat publique), programmes de vaccination.
-- **Distribution et boissons :** grands distributeurs (ex. CFAO Retail, Prosuma), brasseurs et embouteilleurs (ex. Solibra).
-- **Produits frais :** importateurs de poisson et de viande congelés, industriels laitiers locaux.
-- **Transporteurs :** sociétés de transport frigorifique d'Abidjan et de la zone portuaire.
+## 4. Critères de qualification d'un prospect
+
+Un prospect n'est qualifié que si **les quatre conditions** sont réunies :
+
+1. **Configuration où SOLAR WRAP apporte un vrai plus :** groupe frigorifique électrique dépendant du moteur, ou arrêts longs sans accès à une prise à quai. *Un groupe avec moteur indépendant ou un branchement secteur fiable réduit fortement l'intérêt.*
+2. **Conteneur compatible :** 10, 20 ou 30 pieds, toit utilisable, charge utile suffisante pour 270 à 390 kg d'équipement.
+3. **Douleur chiffrable :** incidents de froid, marchandise perdue, livraisons refusées ou coûts d'énergie à l'arrêt connus.
+4. **Décideur et budget identifiés.**
+
+## 5. Premiers prospects (types d'acteurs à qualifier)
+
+Pistes **à vérifier sur le terrain**, classées selon les priorités de la section 3 :
+- **Priorité 1 :** sociétés de transport frigorifique d'Abidjan et de la zone portuaire ; distributeurs de produits frais et surgelés ; industriels laitiers locaux ; grands distributeurs (ex. CFAO Retail, Prosuma) ; brasseurs et embouteilleurs (ex. Solibra).
+- **Priorité 2 :** importateurs et distributeurs de poisson et de viande congelés.
+- **Priorité 3 (après qualification) :** grossistes répartiteurs pharmaceutiques (ex. Laborex, Ubipharm / Copharmed), Nouvelle PSP Côte d'Ivoire.
 
 > 🔒 **Dépôt public :** ne jamais inscrire ici de nom de contact, de téléphone ou d'e-mail de prospect. Le fichier de suivi nominatif est tenu hors du dépôt.
 
-## 5. Offre commerciale
+## 6. Offre commerciale
 
-| Offre | Contenu | Rôle |
-|---|---|---|
-| **Pilote « Preuve du ROI »** | 3 à 5 camions équipés pendant 6 mois ; mesure des kWh, du gazole économisé et des températures via SOLAR CONTROL ; rapport mensuel | Transformer l'hypothèse en preuve terrain |
-| **Kit + installation** | ≈ 10 500 € par véhicule ≈ **6,9 M FCFA** (prix 2028 du business plan ; 1 € = 655,957 FCFA) — à adapter au marché ivoirien | Vente principale |
-| **Abonnement SOLAR CONTROL** | 360 € par véhicule et par an ≈ **236 000 FCFA** : suivi de l'énergie, du froid et du CO₂ | Revenu récurrent, preuve pour les audits qualité |
-| **Paiement mensuel / leasing** *(proposé)* | Via une banque ou un loueur partenaire | Supprimer le frein de l'investissement initial |
+### 6.1. Porte d'entrée : l'audit technique
 
-**Argument à valider par LEVON :** le business plan estime les économies à 2 500 € par an, soit ≈ **208 € par mois et par camion**. Étalé sur 60 mois, le kit coûte ≈ **175 € par mois** hors intérêts : le client paierait moins que ce qu'il économise dès le premier mois. Ce calcul repose sur les hypothèses européennes du business plan ; il doit être refait avec le prix du gazole en Côte d'Ivoire et un vrai taux de financement.
+Visite du conteneur et du groupe frigorifique, relevé de la consommation, du courant de démarrage, de la surface de toit et des temps d'arrêt, puis proposition chiffrée. **Proposition :** audit facturé, montant déduit en cas de commande.
 
-## 6. Canaux et partenaires
+### 6.2. Gamme (coûts : fiche Produit ; prix : hypothèse à valider par LEVON)
 
-1. **Vente directe aux grands comptes** : NAB, avec l'appui du CEO pour les rendez-vous de direction.
-2. **Carrossiers et frigoristes** (installateurs et revendeurs de groupes froids) : apporteurs d'affaires et installateurs.
-3. **Loueurs de camions, sociétés de leasing, banques** : portage du financement.
-4. **Fournisseurs de télématique et de suivi GPS** : intégration avec SOLAR CONTROL.
-5. **Fédérations de transporteurs et de pharmaciens, chambres de commerce** : crédibilité et accès aux réseaux.
-6. **Bailleurs et programmes de santé publique** (chaîne du froid des vaccins) : à étudier avec MAXIME et LEVON.
+| Format | Coût estimé HT (fiche Produit) | Prix de vente indicatif HT* | Prix indicatif TTC (TVA 18 %)* |
+|---|---|---|---|
+| Conteneur 10 pieds | 7 250 € ≈ 4,76 M FCFA | ≈ 11 700 € ≈ **7,7 M FCFA** | ≈ 9,1 M FCFA |
+| Conteneur 20 pieds | 8 050 € ≈ 5,28 M FCFA | ≈ 13 000 € ≈ **8,5 M FCFA** | ≈ 10,0 M FCFA |
+| Conteneur 30 pieds | 8 900 € ≈ 5,84 M FCFA | ≈ 14 400 € ≈ **9,4 M FCFA** | ≈ 11,1 M FCFA |
 
-## 7. Entonnoir de vente — objectif 2027 du business plan
+\* Calcul : coût ÷ (1 − 38 %), soit la marge brute hardware 2028 du business plan ; 1 € = 655,957 FCFA ; TVA ivoirienne de droit commun, régime exact et frais d'importation à vérifier. **Ce ne sont pas des prix validés.**
 
-| Étape | Volume |
+**Deux niveaux d'autonomie** (contradiction n° 1 à corriger par ILYES) :
+- **Offre « 8 h »** : batterie de 20 kWh — c'est la configuration chiffrée ci-dessus (≈ 8,5 h calculées à 1,5 kW).
+- **Offre « 12 h »** : batterie d'environ 30 kWh — **à chiffrer** par ILYES.
+
+### 6.3. Services associés
+
+| Service | Contenu |
 |---|---|
-| Entreprises ciblées | 40 |
-| Premiers contacts | 25 |
-| Entretiens découverte (communs avec Marketing) | 20 |
-| Démonstrations ou études ROI personnalisées | 8 |
-| Lettres d'intention (LOI) pour un pilote | 4 à 5 |
-| **Clients signés** | **3 comptes / 15 véhicules ≈ 120 000 € de CA** |
+| Installation et mise en service | Processus en 9 étapes de la fiche Produit, procès-verbal de réception |
+| Maintenance | Contrat annuel avec un installateur partenaire qualifié |
+| SOLAR CONTROL | Suivi de l'énergie et des températures, alertes ; **pas de GPS par défaut** (note Juridique, § 6) ; 360 € par conteneur et par an dans le business plan ≈ 236 000 FCFA |
 
-2028 : transformer les pilotes en déploiements (12 véhicules par compte en moyenne) et atteindre **10 comptes / 120 véhicules** grâce aux références.
+## 7. Promesses interdites avant preuve
 
-## 8. Cycle de vente
+| Ne pas dire | Pourquoi | Dire à la place |
+|---|---|---|
+| « 8 à 12 heures d'autonomie » | Non démontré ; la batterie chiffrée donne ≈ 8,5 h en théorie | « Autonomie visée, mesurée pendant le pilote sur votre conteneur » |
+| « 100 % à l'arrêt » | Système de basculement pas encore décrit | « Conçu pour prendre le relais à l'arrêt du moteur » |
+| « Garanti 10 ans » | Aucune condition de garantie écrite | « Garanties détaillées dans le contrat » |
+| « Rechargé par le soleil » | 1,5 kWc ≈ 4,8 kWh par jour, moins que les 12 kWh consommés en 8 h | « Recharge solaire complétée par le véhicule ou le secteur » |
+| « X litres de gazole économisés » | Non mesuré pour ce produit | « Économies mesurées pendant le pilote » |
 
-1. **Qualifier** : taille de flotte, kilomètres, gazole consommé, pertes de froid, décideur.
-2. **Découvrir** : chiffrer la douleur (litres, pannes de groupe froid, marchandise perdue).
-3. **Démontrer** : simulateur de ROI en FCFA (à construire avec LEVON) et cas de référence du business plan.
-4. **Lancer le pilote** : LOI avec des critères de succès chiffrés (ex. « au moins X litres économisés et aucune rupture de froid »).
-5. **Mesurer** : rapport SOLAR CONTROL.
-6. **Déployer** : contrat sur toute la flotte, avec abonnement.
+## 8. Canaux et partenaires
 
-## 9. Objections et réponses
+1. **Vente directe** aux transporteurs et distributeurs : NAB, avec l'appui du CEO pour les rendez-vous de direction.
+2. **Frigoristes et carrossiers** : apporteurs d'affaires et installateurs ; ils connaissent les groupes froids et les conteneurs.
+3. **Installateur partenaire qualifié** pour la pose et l'entretien (note Juridique, § 4).
+4. **Banques, sociétés de leasing, loueurs** : financement de l'équipement.
+5. **Fédérations de transporteurs, chambres de commerce, filières agroalimentaires** : crédibilité et accès aux réseaux.
+
+## 9. Entonnoir de vente
+
+### 9.1. Phase de validation (calée sur l'étude Marketing)
+
+| Étape | Objectif |
+|---|---|
+| Entretiens exploratoires (communs avec Marketing) | 10 à 15 |
+| Flottes qualifiées (section 4) et visitées | 3 à 5 |
+| Audits techniques réalisés | 2 à 3 |
+| **Pilotes lancés** | **1 à 2 configurations** (ex. 10 et 20 pieds) |
+
+### 9.2. Phase commerciale — objectif 2027 du business plan
+
+**3 comptes / 15 conteneurs équipés.** Pour y arriver : environ 40 entreprises ciblées → 20 qualifiées → 8 audits → 4 à 5 pilotes ou devis → 3 commandes. Le volume 2028 du business plan (10 comptes / 120 unités) reste à revoir une fois le business plan adapté à la Côte d'Ivoire.
+
+## 10. Cycle de vente (aligné sur la fiche Produit)
+
+1. **Qualifier** : les quatre critères de la section 4.
+2. **Auditer** : visite technique et relevés (étapes 1 à 3 de la fiche Produit).
+3. **Proposer** : devis avec équipements, coût, délais, limites et garanties (étape 4).
+4. **Signer** : validation écrite et acompte (étape 5) — ou convention de pilote (section 11).
+5. **Installer et réceptionner** : pose, essais, procès-verbal de réception, remise documentaire (étapes 6 à 9).
+6. **Mesurer** : rapport SOLAR CONTROL — autonomie, températures, incidents.
+7. **Étendre** : équiper le reste de la flotte, contrat de maintenance et abonnement.
+
+## 11. Conditions du pilote (réponse à la demande du pôle Juridique / RH)
+
+| Élément | Proposition Ventes |
+|---|---|
+| Client visé | Transporteur frigorifique ou distributeur agroalimentaire de priorité 1, ayant passé les quatre critères de qualification |
+| Équipement | 1 à 2 conteneurs (configurations 10 et/ou 20 pieds) |
+| Durée | 3 mois minimum, mesures continues |
+| Participation du client | Payante, au minimum le coût des équipements ; déduite en cas de déploiement sur la flotte |
+| Critères de réussite | Fixés **avant** la pose avec le responsable technique et qualité du client : autonomie mesurée à l'arrêt, nombre d'excursions de température, disponibilité du système, temps de basculement |
+| Sécurité du froid | **Secours de froid conservé** pendant toute la durée de l'essai (note Juridique, § 5) |
+| Préalables | Accord écrit du propriétaire du véhicule, déclaration à son assureur, vérification des formalités de modification du véhicule (MAXIME), validation du basculement et du courant de démarrage (ILYES) |
+| Responsabilités | Le client reste responsable de son transport et de ses produits ; SOLAR WRAP de son équipement et de ses prestations (note Juridique, § 3) |
+
+## 12. Objections et réponses
 
 | Objection | Réponse |
 |---|---|
-| « C'est trop cher » | Paiement mensuel inférieur aux économies, plus le coût d'une seule cargaison perdue |
-| « Est-ce que ça marche vraiment ? » | Pilote mesuré, critères de succès écrits dans la LOI, références Fraunhofer et Sono citées dans le business plan |
-| « Poussière, chaleur, vol » | Tests terrain par climat (prévus dans le PESTEL), nettoyage, garantie |
-| « Homologation, assurance ? » | Kit auxiliaire peu intrusif ; note juridique de MAXIME |
-| « Qui assure la maintenance ? » | Réseau de carrossiers et frigoristes partenaires |
+| « Mon groupe froid a déjà son propre moteur » | Alors SOLAR WRAP n'est peut-être pas utile pour ce véhicule : on le vérifie à l'audit, sans engagement |
+| « C'est trop cher » | Comparer au coût d'une cargaison perdue ou d'une livraison refusée ; pilote payant déduit en cas de déploiement ; financement par un partenaire |
+| « Est-ce que ça tient vraiment 8 heures ? » | Pilote instrumenté, critères de réussite écrits avant la pose, secours de froid conservé |
+| « Le poids et le toit ? » | 270 à 390 kg selon le format ; vérification de la charge utile et du toit à l'audit |
+| « Poussière, chaleur, vibrations » | Tests en conditions réelles pendant le pilote ; maintenance par un partenaire local |
+| « Homologation, assurance ? » | Formalités vérifiées avant toute pose ; accord de l'assureur du client exigé |
 
-## 10. Indicateurs de suivi
+## 13. Indicateurs de suivi
 
-- Nombre de prospects qualifiés et taux de transformation à chaque étape
-- Nombre de LOI pilote signées
-- Nombre de véhicules sous contrat et délai moyen de signature
+- Nombre de prospects qualifiés (section 4) et taux de transformation à chaque étape
+- **Taux d'acceptation de l'audit** et conversion audit → pilote → commande (indicateurs Marketing)
+- Autonomie réellement mesurée et excursions de température, en distinguant causes énergétiques et frigorifiques
 - **Chiffre d'affaires facturé** et **chiffre d'affaires encaissé**, suivis séparément chaque mois
-- Litres de gazole économisés et ruptures de froid évitées (mesurés)
-- Taux d'abonnement SOLAR CONTROL (objectif 75 % en 2028)
+- Taux d'abonnement SOLAR CONTROL et de contrats de maintenance
 - **Mois de trésorerie restants** comparés à la durée du cycle de vente
 
 ### Vocabulaire du pipeline (à ne jamais mélanger)
@@ -112,36 +167,36 @@ Les exemples ci-dessous sont des pistes **à vérifier sur le terrain** et non d
 | Étape | Ce que ça prouve | Ce que ça ne prouve pas |
 |---|---|---|
 | Contact | Une personne a été identifiée | Un besoin |
-| Prospect qualifié | Besoin, budget et décideur confirmés | Une intention d'achat |
-| LOI pilote | Une intention écrite, sous conditions | Un engagement d'achat |
-| Contrat signé | Un engagement ferme | Un revenu (conditions suspensives possibles) |
+| Prospect qualifié | Les quatre critères de la section 4 sont réunis | Une intention d'achat |
+| Audit accepté | Un intérêt concret | Une commande |
+| Convention de pilote | Un essai encadré, sous conditions | Un engagement d'achat |
+| Commande signée | Un engagement ferme | Un revenu (conditions suspensives possibles) |
 | CA facturé | Une facture émise | Un encaissement |
 | CA encaissé | De la trésorerie | Un client récurrent |
 
-## 11. Règles de pilotage commercial
+## 14. Règles de pilotage commercial
 
-Tirées de l'étude d'une start-up dont les ventes n'ont pas décollé, cas étudié dans le module :
-
-1. **Le pilote est payant.** Un pilote gratuit ne prouve pas la volonté de payer ; prévoir au minimum une participation au coût, déduite en cas de déploiement.
+1. **Le pilote est payant.** Un pilote gratuit ne prouve pas la volonté de payer.
 2. **Un partenaire qui « teste » ou qui montre un « fort intérêt » n'est pas un client.** Chaque partenaire est suivi avec un contrat et un montant, ou retiré du pipeline.
-3. **Se concentrer avant de s'étendre.** Un seul pays et un ou deux segments tant que trois clients payants n'ont pas été obtenus ; pas d'ouverture de nouveau pays sur la base de contacts non qualifiés.
+3. **Se concentrer avant de s'étendre.** Un seul pays et les segments de priorité 1 tant que trois clients payants n'ont pas été obtenus.
 4. **Le cycle de vente est comparé chaque mois à la trésorerie.** Si le délai moyen de signature dépasse les mois de trésorerie restants, l'alerte est remontée à la Direction et à la Finance.
-5. **Rémunération variable sur le CA facturé**, pas sur les contacts ou les rendez-vous ; les fonctions support sont intéressées au CA de l'équipe.
-6. **Le Marketing fournit les outils de vente avant la prospection** : argumentaire, simulateur de ROI, fiche produit, études de cas.
-7. **Les prévisions de ventes sont datées et versionnées** ; un objectif revu est noté comme tel, l'ancien n'est pas effacé.
+5. **Rémunération variable sur le CA facturé**, pas sur les contacts ou les rendez-vous.
+6. **Le Marketing fournit les outils de vente avant la prospection** : argumentaire, fiche produit, grille d'audit, études de cas.
+7. **Aucune promesse de la section 7 avant preuve.**
+8. **Les prévisions de ventes sont datées et versionnées** ; un objectif revu est noté comme tel, l'ancien n'est pas effacé.
 
-## 12. Besoins auprès des autres pôles
+## 15. Besoins auprès des autres pôles
 
 | Pôle | Besoin |
 |---|---|
-| Direction — FAOUZI | Trancher Côte d'Ivoire vs Europe / Australie ; confirmer qui porte le pilote |
-| Finance — LEVON | ROI et prix en FCFA avec le gazole ivoirien ; simulateur ; option leasing |
-| Marketing — EDWIGE | Guide d'entretien commun ; taille du marché frigorifique en Côte d'Ivoire |
-| Produit / Opérations — ILYES | Fiche produit, temps de pose, capacité d'installation locale |
-| Juridique / RH — MAXIME | Homologation en Côte d'Ivoire, modèle de LOI pilote, garantie |
+| Direction — FAOUZI | Confirmer le porteur du pilote ; valider ce plan |
+| Finance — LEVON | Adapter le business plan à la Côte d'Ivoire ; prix de vente en FCFA avec marge, TVA à 18 % et frais d'importation ; coût du pilote |
+| Marketing — EDWIGE | Guide d'entretien commun ; argumentaire et fiche commerciale alignés sur la section 7 |
+| Produit / Opérations — ILYES | Chiffrer l'offre « 12 h » ; décrire le basculement ; grille d'audit technique ; liste des groupes froids compatibles |
+| Juridique / RH — MAXIME | Modèle de convention de pilote et de contrat client ; formalités de modification du véhicule ; conditions de garantie |
 
-## 13. Livrables pour la restitution (28/10)
+## 16. Livrables pour la restitution (28/10)
 
-1. Ce plan commercial.
-2. Une slide **« Go-to-market Côte d'Ivoire »** : segments, entonnoir 40 → 3, offre pilote, argument mensualité < économies.
-3. La liste des points à arbitrer (section 1), présentée à FAOUZI au point de milieu de journée.
+1. Ce plan commercial (v1.2).
+2. Une slide **« Go-to-market Côte d'Ivoire »** : segments de priorité 1, audit comme porte d'entrée, entonnoir 10-15 → 3-5 → 1-2 pilotes → 3 comptes en 2027, conditions du pilote.
+3. Les points encore ouverts de la section 1, présentés à FAOUZI.

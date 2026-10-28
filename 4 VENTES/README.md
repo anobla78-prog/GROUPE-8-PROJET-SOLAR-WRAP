@@ -4,24 +4,26 @@
 
 **Périmètre :** Clients, prospects, pipeline, partenaires.
 
-📄 Document principal : [PLAN-COMMERCIAL](PLAN-COMMERCIAL.md)
+📄 Document principal : [PLAN-COMMERCIAL](PLAN-COMMERCIAL.md) (v1.2 — 28/10/2026)
 
 ## À renseigner
-- Objectif prioritaire : signer 3 comptes flotte frigorifique (15 véhicules) en 2027, en commençant par un pilote « Preuve du ROI » de 3 à 5 camions en Côte d'Ivoire.
-- Hypothèses à vérifier : volonté de payer des distributeurs (pharmacie, laitier, surgelés, poisson et viande) ; ROI en FCFA avec le prix du gazole en Côte d'Ivoire ; intérêt pour un paiement mensuel inférieur aux économies ; accès aux décideurs via carrossiers et frigoristes.
-- Actions en cours : plan commercial v1 rédigé ; liste de prospects par segment à qualifier ; points d'arbitrage préparés pour la Direction.
+- Objectif prioritaire : lancer 1 à 2 pilotes payants sur conteneurs frigorifiques en Côte d'Ivoire, puis signer 3 comptes (15 conteneurs équipés) en 2027.
+- Hypothèses à vérifier : nombre de conteneurs dont le froid dépend du moteur ou subit de longs arrêts sans prise ; volonté de payer des transporteurs frigorifiques et distributeurs agroalimentaires ; acceptation d'un audit technique payant ; autonomie réelle à l'arrêt.
+- Actions en cours : plan commercial v1.2 aligné sur le positionnement « continuité d'alimentation », la gamme 10 / 20 / 30 pieds et l'étude Marketing ; conditions du pilote proposées au pôle Juridique / RH.
 - Livrable attendu : plan commercial et premiers prospects ; slide « Go-to-market Côte d'Ivoire ».
-- Échéance : 28/10, matin.
-- Besoins auprès des autres pôles : Direction (choix du pays, porteur du pilote) ; Finance (ROI et prix en FCFA, leasing) ; Marketing (guide d'entretien, taille du marché) ; Produit / Opérations (temps de pose, installation locale) ; Juridique / RH (homologation, modèle de LOI).
-- Sources et liens : [LA VISION DU CEO](../04-strategie/LA%20VISION%20DU%20CEO.MD) ; `2 FINANCE/SOLAR_WRAP_BP_V2.xlsx` ; `2 FINANCE/SLIDES DE PRESENTATION VISION.pptx` ; [tache et livrable de chacun](../tache%20et%20livrable%20de%20chacun.md).
-- Décisions prises : aucune à ce stade — 4 points soumis à l'arbitrage de FAOUZI (voir section 1 du plan).
+- Échéance : 28/10.
+- Besoins auprès des autres pôles : Direction (porteur du pilote, validation du plan) ; Finance (business plan Côte d'Ivoire, prix de vente en FCFA, TVA 18 %) ; Marketing (guide d'entretien, argumentaire) ; Produit / Opérations (offre « 12 h », basculement, grille d'audit) ; Juridique / RH (convention de pilote, contrat client, formalités).
+- Sources et liens : [LA VISION DU CEO](../04-strategie/LA%20VISION%20DU%20CEO.MD) ; [étude de marché Marketing](../3%20MARKETING/SOLAR_WRAP_Etude_de_marche_synthetique_et_positionnement.md) ; [fiche Produit](../5%20PRODUIT/INSTALLATION%20PHOTOVOLTA%C3%8FQUE%20SUR%20CONTENEUR%20LOGISTIQUE%20FRIGORIFIQUE.md) ; [note Juridique / RH](../7%20JURIDIQUE%20RH/README.md) ; [business plan V2](../2%20FINANCE/SOLAR_WRAP_BP_V2.md) ; [tache et livrable de chacun](../tache%20et%20livrable%20de%20chacun.md).
+- Décisions prises : aucune décision formelle — positionnement et équipement repris des travaux Marketing et Produit ; points ouverts dans la section 1 du plan.
 
 ## Suivi
 | Action | Responsable | Échéance | Statut |
 |---|---|---|---|
 | Rédiger le plan commercial v1 | NAB | 27/10 | Terminé |
-| Faire arbitrer pays, cible, prix et porteur du pilote | NAB / FAOUZI | 28/10, matin | À faire |
-| Obtenir le ROI et les prix en FCFA | LEVON | 28/10, matin | À faire |
-| Préparer le guide d'entretien commun | NAB / EDWIGE | 28/10, matin | À faire |
-| Réaliser la slide « Go-to-market Côte d'Ivoire » | NAB | 28/10, midi | À faire |
-| Qualifier 40 entreprises cibles (hors dépôt pour les contacts) | NAB | Après le module | À faire |
+| Aligner le plan sur Marketing, Produit et Juridique (v1.2) | NAB | 28/10 | Terminé |
+| Faire arbitrer prix et porteur du pilote | NAB / FAOUZI | 28/10 | À faire |
+| Obtenir les prix de vente en FCFA (marge, TVA 18 %, import) | LEVON | 28/10 | À faire |
+| Obtenir le chiffrage de l'offre « 12 h » et la grille d'audit | ILYES | 28/10 | À faire |
+| Préparer le guide d'entretien commun | NAB / EDWIGE | 28/10 | À faire |
+| Réaliser la slide « Go-to-market Côte d'Ivoire » | NAB | 28/10 | À faire |
+| Qualifier 10 à 15 flottes (hors dépôt pour les contacts) | NAB | Après le module | À faire |
