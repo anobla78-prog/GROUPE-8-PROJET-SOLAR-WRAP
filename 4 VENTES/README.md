@@ -16,6 +16,8 @@
 
 🎤 **Slide du pitch « De l'amorçage à la rentabilité »** — format 16:9, prête à insérer dans le PowerPoint : la feuille de route en 6 étapes et les 4 chiffres clés pour l'investisseur : [PNG 3840 × 2160](SLIDE-PITCH-FEUILLE-DE-ROUTE-16x9.png)
 
+💶 **Slide du pitch « Du terrain à l'échelle »** — format 16:9 : les tâches de chaque étape, le besoin net par étape (Finance V4 au prorata, 2027 recalé sur le pilote) et les trois levées de 1,5 M€ : [PNG 3840 × 2160](SLIDE-PITCH-GO-TO-MARKET-COUTS-LEVEES-16x9.png)
+
 📽️ **Version projection (investisseurs)** — la timeline du go-to-market en 6 étapes et 4 chiffres clés : [PNG HD](GO-TO-MARKET-PROJECTION-HD.png) · [PDF](GO-TO-MARKET-PROJECTION.pdf)
 
 📥 Versions haute définition : [PNG 4800 × 3000 px](ROADMAP-GO-TO-MARKET-HD.png) (slides, grand écran) · [PDF vectoriel](ROADMAP-GO-TO-MARKET.pdf) (impression, jusqu'au format A1)
