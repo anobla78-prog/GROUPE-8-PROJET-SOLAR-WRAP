@@ -8,11 +8,13 @@
 
 🎯 **Support commercial « Ce que vous y gagnez »** — enjeu, bénéfice et preuve pour chaque décideur et partenaire : [PNG HD](BENEFICES-CLIENTS-HD.png) · [PDF](BENEFICES-CLIENTS.pdf)
 
-💼 **Support investisseurs « Investir dans SOLAR WRAP »** — 4 profils (business angels, fonds, financeurs du développement, banques), les 6 questions de tout investisseur, le deal en un coup d'œil (chiffres Finance V4, scénario central avant impôt) : [PNG HD](INVESTIR-DANS-SOLAR-WRAP-HD.png) · [PDF](INVESTIR-DANS-SOLAR-WRAP.pdf)
+💼 **Support investisseurs « Investir dans SOLAR WRAP »** — format projection : 4 profils d'investisseurs, un bénéfice et un chiffre clé chacun, et les 4 chiffres du deal (Finance V4, scénario central avant impôt) : [PNG HD](INVESTIR-DANS-SOLAR-WRAP-HD.png) · [PDF](INVESTIR-DANS-SOLAR-WRAP.pdf)
 
 🗺️ **Jalons du go-to-market 2026 → 2030+ (v2)** — la roadmap de déploiement sert de référence aux jalons go / no-go J0 à J4 (détail, changements et plans B : section 18 du plan ; dates et critères à valider par la Direction et la Finance) :
 
 ![Go-to-market SOLAR WRAP — jalons 2026-2030+](ROADMAP-SOLAR-WRAP.png)
+
+📽️ **Version projection (investisseurs)** — la timeline du go-to-market en 6 étapes et 4 chiffres clés : [PNG HD](GO-TO-MARKET-PROJECTION-HD.png) · [PDF](GO-TO-MARKET-PROJECTION.pdf)
 
 📥 Versions haute définition : [PNG 4800 × 3000 px](ROADMAP-GO-TO-MARKET-HD.png) (slides, grand écran) · [PDF vectoriel](ROADMAP-GO-TO-MARKET.pdf) (impression, jusqu'au format A1)
 
