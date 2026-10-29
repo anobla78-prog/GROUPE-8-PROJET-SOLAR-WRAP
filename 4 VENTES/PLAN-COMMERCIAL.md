@@ -1,6 +1,6 @@
 # 📈 Plan commercial SOLAR WRAP — Pôle Ventes
 
-**Responsable : NAB** · **Version :** v1.7 — 29/10/2026 (v1.6 + alignement sur le modèle Finance « V4 Afrique » du 29/10 : prix, abonnements, financement ; support WIIFM) · **Statut :** proposition, à valider par FAOUZI (Direction)
+**Responsable : NAB** · **Version :** v1.7 — 29/10/2026 (v1.6 + alignement sur le modèle Finance « V4 Afrique » du 29/10 : prix, abonnements, financement ; supports « Ce que vous y gagnez ») · **Statut :** proposition, à valider par FAOUZI (Direction)
 
 > Livrable attendu (cf. [tache et livrable de chacun](../tache%20et%20livrable%20de%20chacun.md)) : **plan commercial et premiers prospects**.
 > Sources internes : [LA VISION DU CEO](../04-strategie/LA%20VISION%20DU%20CEO.MD), [étude de marché Marketing](../3%20MARKETING/SOLAR_WRAP_Etude_de_marche_synthetique_et_positionnement.md), [fiche Produit](../5%20PRODUIT/INSTALLATION%20PHOTOVOLTA%C3%8FQUE%20SUR%20CONTENEUR%20LOGISTIQUE%20FRIGORIFIQUE.md), [note Juridique / RH](../7%20JURIDIQUE%20RH/README.md), [business plan V2](../2%20FINANCE/SOLAR_WRAP_BP_V2.md), `02-banque-idees/CONTRADICTIONS ET INCOHERENCES.docx`.
