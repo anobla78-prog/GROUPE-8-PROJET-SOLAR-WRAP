@@ -8,6 +8,8 @@
 
 🎯 **Support commercial « Ce que vous y gagnez » (méthode WIIFM)** — enjeu, bénéfice et preuve pour chaque décideur et partenaire : [PNG HD](WIIFM-SOLAR-WRAP-HD.png) · [PDF](WIIFM-SOLAR-WRAP.pdf)
 
+💼 **WIIFM investisseurs « Investir dans SOLAR WRAP »** — 4 profils (business angels, fonds, financeurs du développement, banques), les 6 questions de tout investisseur, le deal en un coup d'œil (chiffres Finance V4, scénario central avant impôt) : [PNG HD](WIIFM-INVESTISSEURS-HD.png) · [PDF](WIIFM-INVESTISSEURS.pdf)
+
 🗺️ **Jalons du go-to-market 2026 → 2030+ (v2)** — la roadmap de déploiement sert de référence aux jalons go / no-go J0 à J4 (détail, changements et plans B : section 18 du plan ; dates et critères à valider par la Direction et la Finance) :
 
 ![Go-to-market SOLAR WRAP — jalons 2026-2030+](ROADMAP-SOLAR-WRAP.png)
