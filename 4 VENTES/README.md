@@ -4,7 +4,9 @@
 
 **Périmètre :** Clients, prospects, pipeline, partenaires.
 
-📄 Document principal : [PLAN-COMMERCIAL](PLAN-COMMERCIAL.md) (v1.6 — 29/10/2026)
+📄 Document principal : [PLAN-COMMERCIAL](PLAN-COMMERCIAL.md) (v1.7 — 29/10/2026)
+
+🎯 **Support commercial « Ce que vous y gagnez » (méthode WIIFM)** — enjeu, bénéfice et preuve pour chaque décideur et partenaire : [PNG HD](WIIFM-SOLAR-WRAP-HD.png) · [PDF](WIIFM-SOLAR-WRAP.pdf)
 
 🗺️ **Jalons du go-to-market 2026 → 2030+ (v2)** — la roadmap de déploiement sert de référence aux jalons go / no-go J0 à J4 (détail, changements et plans B : section 18 du plan ; dates et critères à valider par la Direction et la Finance) :
 

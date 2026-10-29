@@ -1,6 +1,6 @@
 # 📈 Plan commercial SOLAR WRAP — Pôle Ventes
 
-**Responsable : NAB** · **Version :** v1.6 — 29/10/2026 (v1.5 + jalons du go-to-market révisés, section 18) · **Statut :** proposition, à valider par FAOUZI (Direction)
+**Responsable : NAB** · **Version :** v1.7 — 29/10/2026 (v1.6 + alignement sur le modèle Finance « V4 Afrique » du 29/10 : prix, abonnements, financement ; support WIIFM) · **Statut :** proposition, à valider par FAOUZI (Direction)
 
 > Livrable attendu (cf. [tache et livrable de chacun](../tache%20et%20livrable%20de%20chacun.md)) : **plan commercial et premiers prospects**.
 > Sources internes : [LA VISION DU CEO](../04-strategie/LA%20VISION%20DU%20CEO.MD), [étude de marché Marketing](../3%20MARKETING/SOLAR_WRAP_Etude_de_marche_synthetique_et_positionnement.md), [fiche Produit](../5%20PRODUIT/INSTALLATION%20PHOTOVOLTA%C3%8FQUE%20SUR%20CONTENEUR%20LOGISTIQUE%20FRIGORIFIQUE.md), [note Juridique / RH](../7%20JURIDIQUE%20RH/README.md), [business plan V2](../2%20FINANCE/SOLAR_WRAP_BP_V2.md), `02-banque-idees/CONTRADICTIONS ET INCOHERENCES.docx`.
@@ -16,10 +16,10 @@
 |---|---|---|---|
 | 1 | Pays de démarrage | Côte d'Ivoire retenue par le CEO, le Marketing et le Juridique ; le **business plan V2 reste construit sur Europe → Australie / Chili** | Faire adapter le business plan à la Côte d'Ivoire (LEVON) |
 | 2 | Type d'équipement | **Réglé** : conteneurs frigorifiques de 10, 20 et 30 pieds montés sur camion ou remorque | — |
-| 3 | Prix de vente | Ouvert : la fiche Produit donne des **coûts estimés**, pas des prix ; TVA indiquée à 20 % alors que le taux de droit commun ivoirien est de 18 % | Prix de vente en FCFA, marge comprise, TVA et frais d'importation vérifiés (LEVON) |
+| 3 | Prix de vente | **En partie réglé (Finance V4, 29/10)** : 7 500 € HT (lancement), 6 900 € HT au-delà de 100 unités ; fiscalité **non modélisée** (modèle avant impôt) | Faire confirmer le régime de TVA (18 % de droit commun) et les frais d'importation (LEVON) |
 | 4 | Porteur du pilote client | Ouvert : le business plan attribue la flotte pilote à LEVON ; la note Juridique demande à NAB le client visé et les conditions de l'essai | Pilote porté par Ventes (NAB), avec Produit (ILYES) pour la technique |
-| 5 | **Prix du kit — 🔴 critique** | Le BMC retient **7 500 € par véhicule**, alors que la fiche Produit chiffre un **coût** de 7 250 / 8 050 / 8 900 € HT (10 / 20 / 30 pieds) → **vente à perte en 20 et 30 pieds** (voir § 6.2) | Un prix **par format**, en **HT**, couvrant coût + importation + marge ; à fixer par LEVON avec ILYES |
-| 6 | Maintenance et SOLAR CONTROL | Le BMC prévoit une maintenance à **30 €/mois (360 €/an)** ; le business plan prévoit **360 €/an pour SOLAR CONTROL** — même montant pour deux services | Décider : maintenance et suivi **inclus** dans un même abonnement, ou **facturés séparément** |
+| 5 | **Coût du kit — 🟠 à justifier** | La Finance V4 retient un prix de **7 500 €** avec un coût complet de **7 500 € en 2027** (marge nulle) puis **5 200 € dès 2028** (sous-traitance, standardisation). La fiche Produit chiffre **7 250 à 8 900 €** HT selon le format (voir § 6.2) | Faire **justifier par ILYES et LEVON** le passage à 5 200 € (devis, volumes) ; à défaut, prix par format |
+| 6 | Maintenance et SOLAR CONTROL | **Deux abonnements distincts** dans les documents : maintenance **30 €/mois** (BMC) et SOLAR CONTROL **25 €/mois** (Finance V4, seul abonnement intégré au modèle financier) | Décider si la maintenance est vendue en plus (et l'ajouter au modèle Finance) ou incluse dans SOLAR CONTROL |
 | 7 | Place de la pharma | Le BMC en fait l'un des **deux marchés principaux** ; l'étude Marketing la place en **priorité 3, après qualification** | Garder la position Marketing : pharma = cible ultérieure |
 
 ## 2. Positionnement commercial
@@ -67,25 +67,30 @@ Pistes **à vérifier sur le terrain**, classées selon les priorités de la sec
 
 Visite du conteneur et du groupe frigorifique, relevé de la consommation, du courant de démarrage, de la surface de toit et des temps d'arrêt, puis proposition chiffrée. **Proposition :** audit facturé, montant déduit en cas de commande.
 
-### 6.2. Gamme (coûts : fiche Produit ; prix : hypothèse à valider par LEVON)
+### 6.2. Grille de prix (référence : modèle Finance « V4 Afrique », 29/10/2026)
 
-| Format | Coût estimé HT (fiche Produit) | Prix de vente indicatif HT* | Prix indicatif TTC (TVA 18 %)* |
+| Offre | Prix HT | En FCFA (1 € = 655,957 FCFA) | Source |
 |---|---|---|---|
-| Conteneur 10 pieds | 7 250 € ≈ 4,76 M FCFA | ≈ 11 700 € ≈ **7,7 M FCFA** | ≈ 9,1 M FCFA |
-| Conteneur 20 pieds | 8 050 € ≈ 5,28 M FCFA | ≈ 13 000 € ≈ **8,5 M FCFA** | ≈ 10,0 M FCFA |
-| Conteneur 30 pieds | 8 900 € ≈ 5,84 M FCFA | ≈ 14 400 € ≈ **9,4 M FCFA** | ≈ 11,1 M FCFA |
+| **Kit installé — prix de lancement** | **7 500 €** | ≈ **4,92 M FCFA** (≈ 5,81 M FCFA TTC à 18 %) | Finance V4 · BMC |
+| **Offre flotte, au-delà de 100 unités** | **6 900 €** | ≈ **4,53 M FCFA** | Finance V4 |
+| **Abonnement SOLAR CONTROL** | **25 €/mois** (300 €/an) | ≈ 16 400 FCFA/mois | Finance V4 |
+| **Contrat de maintenance (12 mois)** | **30 €/mois** (360 €/an) | ≈ 19 700 FCFA/mois | BMC — **non intégré au modèle Finance** |
 
-\* Calcul : coût ÷ (1 − 38 %), soit la marge brute hardware 2028 du business plan ; 1 € = 655,957 FCFA ; TVA ivoirienne de droit commun, régime exact et frais d'importation à vérifier. **Ce ne sont pas des prix validés.**
+Le prix baisse ensuite chaque année dans le modèle (7 400 € en 2029, 7 000 € en 2033), avec la baisse des coûts.
 
-> 🔴 **Alerte prix — écart avec le Business Model Canvas (v1, 28/10/2026).** Le BMC retient un prix unique de **7 500 € par véhicule**. Comparé aux coûts de la fiche Produit :
+> 🟠 **Alerte coût — écart entre la Finance et la fiche Produit.** Au prix de 7 500 € :
 >
-> | Format | Coût HT | Marge si 7 500 € **HT** | Marge si 7 500 € **TTC** (TVA 18 %, soit ≈ 6 356 € HT) |
-> |---|---|---|---|
-> | 10 pieds | 7 250 € | +250 € (≈ 3 %) | −894 € |
-> | 20 pieds | 8 050 € | −550 € | −1 694 € |
-> | 30 pieds | 8 900 € | −1 400 € | −2 544 € |
+> | Hypothèse de coût complet | Coût HT | Marge par kit |
+> |---|---|---|
+> | Finance V4 — 2027 | 7 500 € | **0 €** (première année à marge nulle, assumée) |
+> | Finance V4 — dès 2028 | 5 200 € | **+2 300 € (≈ 31 %)** |
+> | Fiche Produit — 10 pieds | 7 250 € | +250 € (≈ 3 %) |
+> | Fiche Produit — 20 pieds | 8 050 € | **−550 €** |
+> | Fiche Produit — 30 pieds | 8 900 € | **−1 400 €** |
 >
-> Ces marges n'incluent ni transport, ni dédouanement, ni garantie, ni la batterie de l'offre « 12 h ». **Les deux grilles de prix ne peuvent pas coexister** : décision à prendre par le groupe (voir § 1, point 5).
+> Le modèle n'est rentable que si le coût descend réellement à **5 200 €** dès 2028. **ILYES et LEVON doivent le justifier** (devis fournisseurs, sous-traitance, volumes). Tant que ce n'est pas fait, privilégier le **10 pieds** pour les premiers clients.
+
+> ⚠️ **Retour sur investissement client (≈ 3,2 ans dans la Finance V4).** Le calcul repose sur **1 800 L de gazole économisés par an** (1,35 €/L). Or l'étude Marketing et l'analyse des contradictions indiquent que les économies de carburant **ne sont pas démontrées** (production solaire ≈ 4,8 kWh/jour pour 1,5 kWc). Ce chiffre ne doit être présenté que comme **une hypothèse à confirmer par le pilote** (voir § 7).
 
 **Deux niveaux d'autonomie** (contradiction n° 1 à corriger par ILYES) :
 - **Offre « 8 h »** : batterie de 20 kWh — c'est la configuration chiffrée ci-dessus (≈ 8,5 h calculées à 1,5 kW).
@@ -96,8 +101,8 @@ Visite du conteneur et du groupe frigorifique, relevé de la consommation, du co
 | Service | Contenu |
 |---|---|
 | Installation et mise en service | Processus en 9 étapes de la fiche Produit, procès-verbal de réception |
-| Maintenance | Contrat annuel avec un installateur partenaire qualifié |
-| SOLAR CONTROL | Suivi de l'énergie et des températures, alertes ; **pas de GPS par défaut** (note Juridique, § 6) ; 360 € par conteneur et par an dans le business plan ≈ 236 000 FCFA |
+| Maintenance | Contrat de 12 mois renouvelable, avec un installateur partenaire qualifié ; **30 €/mois** selon le BMC (périmètre à préciser) |
+| SOLAR CONTROL | Suivi de l'énergie et des températures, alertes ; **pas de GPS par défaut** (note Juridique, § 6) ; **25 €/mois** (300 €/an) selon la Finance V4 |
 
 ## 7. Promesses interdites avant preuve
 
@@ -108,6 +113,7 @@ Visite du conteneur et du groupe frigorifique, relevé de la consommation, du co
 | « Garanti 10 ans » | Aucune condition de garantie écrite | « Garanties détaillées dans le contrat » |
 | « Rechargé par le soleil » | 1,5 kWc ≈ 4,8 kWh par jour, moins que les 12 kWh consommés en 8 h | « Recharge solaire complétée par le véhicule ou le secteur » |
 | « X litres de gazole économisés » | Non mesuré pour ce produit | « Économies mesurées pendant le pilote » |
+| « Rentabilisé en 3 ans » | Le calcul Finance V4 suppose 1 800 L de gazole économisés par an, non démontrés | « Retour sur investissement **visé** autour de 3 ans, **mesuré** pendant le pilote » |
 
 ## 8. Canaux et partenaires
 
@@ -283,11 +289,11 @@ La [roadmap de déploiement](ROADMAP-SOLAR-WRAP.png) est la **référence des ja
 | Les ventes sont plus lentes que prévu | Réduire les coûts, prolonger le pilote, **ne pas lever de fonds** avant la preuve |
 | Un jalon est manqué | **Corriger, décaler ou arrêter** — jamais passer outre |
 
-### 18.5 Financement
+### 18.5 Financement (mis à jour avec la Finance V4 Afrique, 29/10/2026)
 
-- **Amorçage des phases 0 à 2** : montant en FCFA à chiffrer par la Finance.
-- **Levée de fonds seulement après J2.**
+- **Modèle Finance V4 Afrique** (scénario central, avant impôt) : **4,5 M€ en 3 tranches de 1,5 M€** (2027, 2028, 2029) ; EBITDA positif en **2030** ; flux de trésorerie disponible (FCF) positif en **2031** ; CA 2033 ≈ 38,6 M€.
+- ⚠️ **Point à aligner avec la roadmap :** la tranche de 2027 tomberait **avant J2** (fin du pilote, déc. 2027), alors que la roadmap prévoit de ne lever qu'après la preuve. Proposition : **amorçage limité** pour les phases 0 à 2, puis **tranche 1 conditionnée à J2**.
 - À chaque jalon : trésorerie ≥ durée du cycle de vente.
-- Les tranches et l'EBITDA du BP V2 ne sont pas repris tant qu'ils n'ont pas été recalculés pour la Côte d'Ivoire.
+- Fiscalité non modélisée : à intégrer une fois le pays et le régime fiscal confirmés.
 
 **Règles :** un jalon manqué déclenche une revue avec la Direction et la Finance. Les échéances sont des **cibles**, revues à chaque jalon ; les versions précédentes sont conservées (§ 14, règle 8). Les prix et volumes restent soumis aux arbitrages de la section 1.
