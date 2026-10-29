@@ -1,6 +1,6 @@
 # 📈 Plan commercial SOLAR WRAP — Pôle Ventes
 
-**Responsable : NAB** · **Version :** v1.5 — 28/10/2026 (v1.4 + jalons du go-to-market, section 18) · **Statut :** proposition, à valider par FAOUZI (Direction)
+**Responsable : NAB** · **Version :** v1.6 — 29/10/2026 (v1.5 + jalons du go-to-market révisés, section 18) · **Statut :** proposition, à valider par FAOUZI (Direction)
 
 > Livrable attendu (cf. [tache et livrable de chacun](../tache%20et%20livrable%20de%20chacun.md)) : **plan commercial et premiers prospects**.
 > Sources internes : [LA VISION DU CEO](../04-strategie/LA%20VISION%20DU%20CEO.MD), [étude de marché Marketing](../3%20MARKETING/SOLAR_WRAP_Etude_de_marche_synthetique_et_positionnement.md), [fiche Produit](../5%20PRODUIT/INSTALLATION%20PHOTOVOLTA%C3%8FQUE%20SUR%20CONTENEUR%20LOGISTIQUE%20FRIGORIFIQUE.md), [note Juridique / RH](../7%20JURIDIQUE%20RH/README.md), [business plan V2](../2%20FINANCE/SOLAR_WRAP_BP_V2.md), `02-banque-idees/CONTRADICTIONS ET INCOHERENCES.docx`.
@@ -236,23 +236,58 @@ Visite du conteneur et du groupe frigorifique, relevé de la consommation, du co
 
 **Sources :** [Ecofin — trois marchés de gros (mai 2026)](https://www.agenceecofin.com/actualites/0605-138182-cote-d-ivoire-trois-marches-de-gros-annonces-pour-moderniser-la-filiere-vivriere) · [Marché de gros de Bouaké](https://www.pppossible.com/projet-marchedugros.php) · [PND 2026-2030 et le Nord](https://www.afrik.com/pnd-2026-2030-la-cote-d-ivoire-veut-faire-du-nord-un-corridor-agro-industriel-et-logistique) · [Filières fruitières en Côte d'Ivoire (2022)](https://www.hortifresh.org/wp-content/uploads/AnalyseFruitSectors_2022_online.pdf) · [La mangue en Côte d'Ivoire (Fruitrop)](https://www.fruitrop.com/content/download/42193/685289/version/6/file/F255+fiche+mangue+cote+ivoire+FRA.pdf) · [Catalogue de projets du CEPICI](https://cepici.ci/forum/public/backend/assets/upload/documents/1732611402_ee63aa13c1d73bc83f6a.pdf) · [Ensoleillement — Scientific African (2026)](https://doaj.org/article/12a8ff372dc7406d90b8bba12148ee5a)
 
-## 18. Jalons du go-to-market (référence : roadmap de déploiement)
+## 18. Jalons du go-to-market (référence : roadmap de déploiement v2)
 
-La [roadmap de déploiement](ROADMAP-SOLAR-WRAP.png) est la **référence des jalons du go-to-market**. Chaque phase se termine par une décision **go / no-go** : on ne passe à la phase suivante que si le critère est atteint.
+La [roadmap de déploiement](ROADMAP-SOLAR-WRAP.png) est la **référence des jalons du go-to-market**. Chaque phase se termine par une décision **go / no-go** : on ne passe à la phase suivante que si le critère est atteint. Versions haute définition : [PNG](ROADMAP-GO-TO-MARKET-HD.png) · [PDF](ROADMAP-GO-TO-MARKET.pdf).
 
-![Go-to-market SOLAR WRAP — jalons 2026-2031](ROADMAP-SOLAR-WRAP.png)
+![Go-to-market SOLAR WRAP — jalons 2026-2030+](ROADMAP-SOLAR-WRAP.png)
 
-| Jalon | Échéance cible | Critère de réussite (go / no-go) | Responsable principal | Indicateurs Ventes |
-|---|---|---|---|---|
-| **J0 — Besoin validé** | Fin janv. 2027 | 3 flottes qualifiées (§ 4) avec une perte chiffrée ; partenaire technique engagé ; conception validée | NAB · ILYES | Entretiens réalisés (10-15), audits (3-5) |
-| **J1 — Système prouvé** | Fin mai 2027 | Autonomie ≥ 8 h mesurée ; sécurité OK ; feu vert réglementaire et assureur | ILYES · MAXIME | Clients prêts à piloter |
-| **J2 — Valeur prouvée** | Fin sept. 2027 | Critères du pilote atteints ; le client veut étendre ; étude de cas chiffrée | NAB | Conventions de pilote signées (1-2) |
-| **J3 — Premiers revenus** | Fin déc. 2027 | 3 clients payants · 15 conteneurs · CA **encaissé** | NAB · LEVON | CA facturé / encaissé, taux d'abonnement |
-| **J4 — Couverture nationale** | 2028 | Clients actifs à Bouaké et Korhogo ; objectif BP 10 clients · 120 unités (à revoir) | NAB | Clients par ville, délai de signature |
-| **J5 — Rentabilité et UEMOA** | 2029-2030 | Coût unitaire en baisse ; premier client hors Côte d'Ivoire ; EBITDA positif visé en 2030 | FAOUZI · LEVON | Marge par conteneur, clients UEMOA |
-| **J6 — Passage à l'échelle** | 2031 + | Accord avec un constructeur ou carrossier ; revenus récurrents SOLAR CONTROL | FAOUZI | Part du CA récurrent |
+### 18.1 Phases et jalons
 
-**Règles :**
-- Un jalon manqué déclenche une revue avec la Direction et la Finance : **corriger, décaler ou arrêter** — jamais passer outre.
-- Les échéances sont des **cibles** ; elles sont revues à chaque jalon et les versions précédentes sont conservées (§ 14, règle 8).
-- Les prix et volumes restent soumis aux arbitrages de la section 1 (notamment le prix du kit).
+| Phase | Période | Responsables | Jalon de sortie (go / no-go) |
+|---|---|---|---|
+| **0. Cadrage** | Nov. 2026 → févr. 2027 | NAB · ILYES · LEVON | **J0 — Besoin et prix** : 3 flottes qualifiées avec une perte chiffrée · **prix cible par format validé** · **financement de la phase 1 sécurisé** · partenaire technique engagé |
+| **1. Prototype et autorisations** | Mars → juin 2027 | ILYES · MAXIME | **J1 — Système prouvé** : **≥ 90 % des arrêts réels mesurés en phase 0 couverts** · sécurité · formalités véhicule · accord de l'assureur |
+| **2. Pilote payant (6 mois)** | Juil. → déc. 2027 | NAB | **J2 — Valeur prouvée** : critères atteints en **saison des pluies et en saison sèche** · **intention d'achat écrite** |
+| **3. Premiers clients** | 1er semestre 2028 | NAB · LEVON | **J3 — Premiers revenus** : 3 clients payants · CA **encaissé** · **trésorerie ≥ durée du cycle de vente** |
+| **4. Extension nationale** | S2 2028 → 2029 | NAB | **J4 — Couverture nationale** : clients actifs à Bouaké, puis à Korhogo pendant la campagne mangue 2029 |
+| **Vision** | 2030 et après | FAOUZI | UEMOA, industrialisation, partenariats constructeurs — **sous réserve d'un business plan recalculé pour l'Afrique de l'Ouest** |
+
+### 18.2 Ce qui a changé par rapport à la v1 (et pourquoi)
+
+| Changement | Raison |
+|---|---|
+| Prototype décalé à **mars → juin 2027** | Délais d'import (batteries lithium, électronique), dédouanement, formalités et assureur |
+| Pilote porté à **6 mois, juillet → décembre 2027** | Couvrir la saison des pluies (moins de soleil) **et** la saison sèche : résultats « pire cas » et « meilleur cas » |
+| Premiers clients au **1er semestre 2028** | Un achat B2B d'environ 10 000 € par conteneur demande plusieurs mois de décision |
+| Critère J1 : **couverture des arrêts mesurés** au lieu de « ≥ 8 h » | La batterie chiffrée donne ≈ 8,5 h en théorie ; le critère doit refléter le besoin réel du client |
+| **Prix et financement** ajoutés à J0 ; **trésorerie** ajoutée à J3 | Impossible de signer un pilote payant sans prix ; une entreprise peut échouer avec un bon produit si elle vend trop lentement |
+| Phases 5 et 6 fusionnées en **« Vision »** | Au-delà de 2029, il s'agit d'une orientation, pas d'un plan |
+| **Retrait** des tranches 2,0 / 2,5 / 1,5 M€ et de « EBITDA positif en 2030 » | Chiffres du BP V2 construits pour l'Europe et l'Australie, non recalculés pour la Côte d'Ivoire |
+
+### 18.3 Prérequis transverses
+
+1. **Équipe sur place** : fondatrice à Abidjan ; 2 techniciens à recruter ou former.
+2. **Approvisionnement** : commande du matériel du prototype dès J0 ; dédouanement ; stock de pièces détachées.
+3. **SOLAR CONTROL** : développement dès la phase 1 ; pas de GPS par défaut ; protection des données.
+4. **Juridique** : SAS ; dépôt de marque à l'OAPI lancé dès la phase 0 (délai de plusieurs mois) ; contrats ; responsabilité civile professionnelle.
+5. **Saisons** : pluies au sud (avril-juillet, septembre-novembre) ; campagne mangue au nord (mars-juin).
+6. **Partenaires vérifiés** : RCCM ou IDU, références, essai avant tout contrat.
+
+### 18.4 Plans B — déclencheurs
+
+| Si… | Alors… |
+|---|---|
+| J1 échoue (la continuité ne tient pas) | Recentrage sur le **froid statique solaire** : chambres froides, conteneurs à quai |
+| Le prix n'est pas accepté | Offre **10 pieds** d'abord, segments à forte valeur, leasing |
+| Les ventes sont plus lentes que prévu | Réduire les coûts, prolonger le pilote, **ne pas lever de fonds** avant la preuve |
+| Un jalon est manqué | **Corriger, décaler ou arrêter** — jamais passer outre |
+
+### 18.5 Financement
+
+- **Amorçage des phases 0 à 2** : montant en FCFA à chiffrer par la Finance.
+- **Levée de fonds seulement après J2.**
+- À chaque jalon : trésorerie ≥ durée du cycle de vente.
+- Les tranches et l'EBITDA du BP V2 ne sont pas repris tant qu'ils n'ont pas été recalculés pour la Côte d'Ivoire.
+
+**Règles :** un jalon manqué déclenche une revue avec la Direction et la Finance. Les échéances sont des **cibles**, revues à chaque jalon ; les versions précédentes sont conservées (§ 14, règle 8). Les prix et volumes restent soumis aux arbitrages de la section 1.

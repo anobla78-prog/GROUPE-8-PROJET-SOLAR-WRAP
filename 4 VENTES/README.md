@@ -4,11 +4,11 @@
 
 **Périmètre :** Clients, prospects, pipeline, partenaires.
 
-📄 Document principal : [PLAN-COMMERCIAL](PLAN-COMMERCIAL.md) (v1.5 — 28/10/2026)
+📄 Document principal : [PLAN-COMMERCIAL](PLAN-COMMERCIAL.md) (v1.6 — 29/10/2026)
 
-🗺️ **Jalons du go-to-market 2026 → 2031** — la roadmap de déploiement sert de référence aux jalons go / no-go (détail : section 18 du plan ; dates et montants à valider par la Direction et la Finance) :
+🗺️ **Jalons du go-to-market 2026 → 2030+ (v2)** — la roadmap de déploiement sert de référence aux jalons go / no-go J0 à J4 (détail, changements et plans B : section 18 du plan ; dates et critères à valider par la Direction et la Finance) :
 
-![Go-to-market SOLAR WRAP — jalons 2026-2031](ROADMAP-SOLAR-WRAP.png)
+![Go-to-market SOLAR WRAP — jalons 2026-2030+](ROADMAP-SOLAR-WRAP.png)
 
 📥 Versions haute définition : [PNG 4800 × 3000 px](ROADMAP-GO-TO-MARKET-HD.png) (slides, grand écran) · [PDF vectoriel](ROADMAP-GO-TO-MARKET.pdf) (impression, jusqu'au format A1)
 
